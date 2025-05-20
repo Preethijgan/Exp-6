@@ -59,11 +59,20 @@ Label messages with sequence numbers and direction arrows.
 
 # DIAGRAMS:
 # Use case Diagram
+![UseCaseDiagram1](https://github.com/user-attachments/assets/430ad78b-bcb0-4c60-8aef-eebff59d4e23)
+
 # Class Diagram
+![ClassDiagram1](https://github.com/user-attachments/assets/2d10ae36-ea40-4d43-81ae-554f498036cd)
+
 # Activity Diagram
+![ActivityDiagram1](https://github.com/user-attachments/assets/001e2bb5-06dc-4d4c-ab2b-3913912cb7c9)
+
 # Package Diagram
+![PackageDiagram1](https://github.com/user-attachments/assets/63d80803-1c7d-4010-8642-e1d01e31d70d)
+
 # Sequence Diagram
-# Communication Diagram
+![SequenceDiagram1](https://github.com/user-attachments/assets/e8ddeed3-0fb1-4117-9937-93bf80602399)
+
 
 # RESULT:
 Thus,UML diagrams for a Student Online Exam Registration System to model its structure and functionality is completed successfully.
